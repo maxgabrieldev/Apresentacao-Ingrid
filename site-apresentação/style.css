@@ -26,7 +26,7 @@ body {
 
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 10px #d34191;
 }
 
 #ingrid {
@@ -65,6 +65,18 @@ button {
 }	
 .apresentacao {
     background-color: #fff;
+    padding: 20px;
+    margin: 50px;
+    border: 1px solid #d34191;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #d34191;
+    line-height: 30px;
+
+    font-style: justify;
+}
+
+.assinatura {
+    background-color: none;
     padding: 20px;
     margin: 50px;
     border: 1px solid #d34191;
