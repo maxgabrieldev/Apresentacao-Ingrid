@@ -72,15 +72,5 @@ button {
     box-shadow: 0px 0px 10px #d34191;
     line-height: 30px;
     word-spacing: 4px;
-}
-
-.rodape {
-    background-color: #fff;
-    padding: 20px;
-    margin: 50px;
-    border: 1px solid #d34191;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px #d34191;
-    line-height: 30px;
-    word-spacing: 4px;
+    font-style: justify;
 }
