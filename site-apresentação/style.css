@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Indie+Flower&family=Mukta:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Fascinate&family=Indie+Flower&family=Mukta:wght@200&display=swap');
 * {
     box-sizing: border-box;
     text-align: center;
@@ -15,7 +15,7 @@ body {
     color: #fff;  /* Cor do texto */
     margin: 0;  
     padding: 0;  
-    margin: 50px;
+    margin: 30px;
     line-height: 1.5;
     color: rgb(26, 27, 27)
     
@@ -31,8 +31,7 @@ body {
 
 #ingrid {
     display: inline-block;
-    width: 30%;
-    height: 50%;
+    width: 25%;
     background-color: #fff;
     border: 1px solid #d34191;
     border-radius: 200%;
@@ -85,4 +84,10 @@ button {
     line-height: 30px;
     word-spacing: 4px;
     font-style: justify;
+    object-fit: cover;
+}
+.container-footer {
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #d34191;
+
 }
