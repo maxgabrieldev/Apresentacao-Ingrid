@@ -90,3 +90,23 @@ button {
     box-shadow: 0px 0px 10px #d34191;
 
 }
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+@media screen and (max-width: 600px) {
+    .top {
+        width: 100%;
+    }
+    #ingrid {
+        width: 100%;
+    }
+    .apresentacao {
+        margin: 20px;
+    }
+    .assinatura {
+        margin: 30px;
+        width: 50%;
+    }
+}
